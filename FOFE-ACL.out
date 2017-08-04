@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}
+\BOOKMARK [1][-]{section.2}{Our Approach: FOFE}{}
+\BOOKMARK [2][-]{subsection.2.1}{Fixed-size Ordinally Forgetting Encoding}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{Uniqueness of FOFE codes}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{Implement FOFE for FNN-LMs}{section.2}
+\BOOKMARK [1][-]{section.3}{Experiments}{}
+\BOOKMARK [2][-]{subsection.3.1}{Experimental results on PTB }{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{Experimental results on LTCB}{section.3}
+\BOOKMARK [1][-]{section.4}{Conclusions}{}
